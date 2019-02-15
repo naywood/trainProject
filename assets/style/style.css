@@ -1,7 +1,8 @@
-body{
+.jumbotron{
     background-image: url("../images/theBackground.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
+
